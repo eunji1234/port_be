@@ -1,0 +1,14 @@
+.footer .container {
+  padding: 20px 0;
+  width: 1060px;
+  margin: 0 auto;
+  text-align: center;
+  color: #333333;
+}
+.footer .container p {
+  padding-top: 20px;
+}
+.footer .container p i {
+  font-style: normal;
+  color: #d1a23e;
+}
